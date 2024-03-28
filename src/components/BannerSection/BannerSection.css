@@ -1,0 +1,60 @@
+.banner-box {
+  position: relative;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.05);
+  background-color: rgba(255, 255, 255, 1);
+}
+.details {
+  background-color: rgba(247, 247, 248, 1);
+}
+.events {
+  font-family: Inter;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 14.52px;
+  text-align: left;
+  color: rgba(82, 89, 101, 1);
+}
+.count-event {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 16.94px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+.add {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background-color: rgba(0, 0, 0, 1);
+  width: 48.09px;
+}
+.add-text {
+  font-family: Inter;
+  font-size: 12.8px;
+  font-weight: 700;
+  line-height: 19px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+}
+.advert-title {
+  color: rgba(34, 45, 58, 1);
+}
+.advert-description {
+  font-family: Inter;
+  font-size: 12.8px;
+  font-weight: 400;
+  line-height: 19px;
+  text-align: left;
+  color: rgba(82, 89, 101, 1);
+}
+.see-more {
+  background-color: rgba(44, 156, 240, 1);
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.05);
+  border-radius: 3px;
+  width: 124.8px;
+  height: 46px;
+  color: rgba(255, 255, 255, 1);
+  font-family: Inter;
+  line-height: 25.89px;
+}

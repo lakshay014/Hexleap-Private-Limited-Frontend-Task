@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: rgba(247, 247, 248, 1);
+}
+.heading {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 36px;
+  text-align: left;
+}
+
+.borderBottom {
+  border-bottom: 2px solid rgba(115, 143, 255, 1);
+  padding-bottom: 5px;
+  width: 80.52px;
+}
